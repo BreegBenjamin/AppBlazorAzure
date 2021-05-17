@@ -634,3 +634,5 @@ C:\Desarrollo\.NETCore\BlazorAppAzure\BlazorAppAzure\obj\Debug\net5.0\ref\Blazor
 C:\Desarrollo\.NETCore\BlazorAppAzure\BlazorAppAzure\obj\Debug\net5.0\BlazorAppAzure.pdb
 C:\Desarrollo\.NETCore\BlazorAppAzure\BlazorAppAzure\obj\Debug\net5.0\serviceworkers\wwwroot\service-worker.js
 C:\Desarrollo\.NETCore\BlazorAppAzure\BlazorAppAzure\obj\Debug\net5.0\service-worker-assets.js
+C:\Desarrollo\.NETCore\BlazorAppAzure\BlazorAppAzure\obj\Debug\net5.0\RazorDeclaration\Pages\TrelloPage.razor.g.cs
+C:\Desarrollo\.NETCore\BlazorAppAzure\BlazorAppAzure\obj\Debug\net5.0\Razor\Pages\TrelloPage.razor.g.cs
